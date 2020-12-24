@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Office: 02-549-3466, Fax: 02-549-3462, Mobile: 084-098-8030, E-mail: weerachai.y(AT)en.rmutt.ac.th, Website: http://www.en.rmutt.ac.th/weerachai.y
 - Cisco Certified Academy Instructor (CCAI)
 - Huawei Certified Academy Instructor (HCAI)
-- Huawei: HCAI HCIP-R&S HCIAx8 
+- Huawei: HCIP-R&S HCIAx8 
 - Juniper Networks: JNCIAx4 
 - Alibaba Cloud Certified Associate Cloud Computing
 - Alibaba Cloud Certified Associate Cloud Security
