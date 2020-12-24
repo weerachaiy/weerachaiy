@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Huawei Certified Academy Instructor (HCAI)
 - Huawei: HCIP-R&S HCIAx8 
 - Juniper Networks: JNCIAx4 
-- Alibaba Cloud Certified Associate Cloud Computing
-- Alibaba Cloud Certified Associate Cloud Security
+- Alibaba Cloud Certified Associate (ACA) Cloud Computing
+- Alibaba Cloud Certified Associate (ACA) Cloud Security
 - Microsoft Certified: Azure Fundamentals
 - Microsoft Certified: Azure AI Fundamentals
