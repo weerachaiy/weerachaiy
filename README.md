@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - Juniper Networks: JNCIAx4 
 - Alibaba Cloud Certified Associate (ACA) Cloud Computing
 - Alibaba Cloud Certified Associate (ACA) Cloud Security
+- Alibaba Cloud Certified Associate (ACA) Cloud Native
 - Microsoft Certified: Azure Fundamentals
 - Microsoft Certified: Azure AI Fundamentals
 - Microsoft Technology Associate (MTA) Certified: Networking Fundamentals
