@@ -1,3 +1,15 @@
+### About
+- Mr.Weerachai Yaemvachi (อ.วีระชัย แย้มวจี)
+
+### ประวัติการศึกษา
+- วศ.บ. (วิศวกรรมคอมพิวเตอร์) สถาบันเทคโนโลยีราชมงคล, วศ.ม. (วิศวกรรมไฟฟ้า-วิศวกรรมอิเล็กทรอนิกส์และโทรคมนาคม) มหาวิทยาลัยเทคโนโลยีราชมงคลธัญบุรี
+
+### วิชาที่สอน
+-  Computer Network Laboratory, TCP/IP Networks, Computer Engineering Project
+
+### Contact
+- Office: 02-549-3466, Fax: 02-549-3462, Mobile: 084-098-8030, E-mail: weerachai.y(AT)rmutt.ac.th, Website: http://www.en.rmutt.ac.th/weerachai.y
+
 ### Hi there 👋
 
 <!--
@@ -14,18 +26,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Mr.Weerachai Yaemvachi (อ.วีระชัย แย้มวจี)
-- วศ.บ. (วิศวกรรมคอมพิวเตอร์) สถาบันเทคโนโลยีราชมงคล, วศ.ม. (วิศวกรรมไฟฟ้า-วิศวกรรมอิเล็กทรอนิกส์และโทรคมนาคม) มหาวิทยาลัยเทคโนโลยีราชมงคลธัญบุรี
-- TCP/IP Networks, Computer Network Laboratory, Special Problems in Computer Network, Computer Engineering Project
-- Office: 02-549-3466, Fax: 02-549-3462, Mobile: 084-098-8030, E-mail: weerachai.y(AT)en.rmutt.ac.th, Website: http://www.en.rmutt.ac.th/weerachai.y
 - Cisco Certified Academy Instructor (CCAI)
 - Huawei Certified Academy Instructor (HCAI)
-- Huawei: HCIP-R&S HCIAx8 
-- Juniper Networks: JNCIAx4 
+- Huawei: HCIP-R&S HCIAx8
+- Juniper Networks: JNCIAx4
 - Alibaba Cloud Certified Associate (ACA) Cloud Computing
 - Alibaba Cloud Certified Associate (ACA) Cloud Security
 - Alibaba Cloud Certified Associate (ACA) Cloud Native
+- Alibaba Cloud Certified Associate (ACA) Big Data
+- Alibaba Cloud Certified Specialty (ACS) Innovative Computing
 - Microsoft Certified: Azure Fundamentals
+- Microsoft Certified: Azure Data Fundamentals
 - Microsoft Certified: Azure AI Fundamentals
 - Microsoft Technology Associate (MTA) Certified: Networking Fundamentals
 - Microsoft Technology Associate (MTA) Certified: Introduction to Programming Using JavaScript
+- https://www.credly.com/users/weerachai-yaemvachi
