@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -->
 - Cisco Certified Academy Instructor (CCAI)
 - Huawei Certified Academy Instructor (HCAI)
-- Huawei: HCIP-R&S HCIAx8
+- Huawei: HCIP-R&S HCIAx10 HCPA
 - Juniper Networks: JNCIAx4
 - Alibaba Cloud Certified Associate (ACA) Cloud Computing
 - Alibaba Cloud Certified Associate (ACA) Cloud Security
