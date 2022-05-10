@@ -42,3 +42,5 @@ Here are some ideas to get you started:
 - Microsoft Technology Associate (MTA) Certified: Networking Fundamentals
 - Microsoft Technology Associate (MTA) Certified: Introduction to Programming Using JavaScript
 - https://www.credly.com/users/weerachai-yaemvachi
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=weerachaiy&theme=highcontrast&show_icons=true&count_private=true)
