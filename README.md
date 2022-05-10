@@ -44,3 +44,5 @@ Here are some ideas to get you started:
 - https://www.credly.com/users/weerachai-yaemvachi
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=weerachaiy&theme=highcontrast&show_icons=true&count_private=true)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=weerachaiy)
