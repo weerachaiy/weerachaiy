@@ -43,3 +43,4 @@ Here are some ideas to get you started:
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=weerachaiy&layout=compact)
 
 ![Codewars](https://www.codewars.com/users/weerachaiy/badges/large)
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/weerachai.y.png)
